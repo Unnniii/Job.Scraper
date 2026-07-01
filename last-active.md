@@ -1,4 +1,4 @@
-Last active: 2026-06-30
+Last active: 2026-07-02
 
 ## Target Roles
 1. QA Analyst / Quality Analyst / Software Tester / ERP Tester / Test Automation Engineer
